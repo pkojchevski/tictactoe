@@ -1,0 +1,26 @@
+*{
+  background-color: rgb(53, 53, 53);
+  font-family: 'Roboto Slab', serif;
+  color: white;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.container {
+  width:100%;
+}
+
+.content {
+  margin-top:120px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+

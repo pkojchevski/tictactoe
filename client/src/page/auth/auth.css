@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input-username {
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    outline: white;
+    border-color: white;
+    color: gray;
+}
